@@ -1,1 +1,5 @@
+Flask==2.2.5
+firebase-admin==6.0.1
+gunicorn==20.1.0
+requests==2.31.0
 
